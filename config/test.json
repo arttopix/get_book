@@ -1,0 +1,12 @@
+{
+  "shop_url": "tests/pages/index.html",
+  "categories": [
+    "Travel",
+    "Poetry",
+    "Humor"
+  ],
+  "cheap_limit": 20,
+  "headless": true,
+  "redact": []
+}
+
