@@ -1,4 +1,4 @@
-# Get book
+# get_book_data
 
 A [Kinenix](https://github.com/arttopix/kinenix) automation project.
 

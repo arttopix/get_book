@@ -1,4 +1,4 @@
-# Instructions for AI assistants: Get book
+# Instructions for AI assistants: get_book_data
 
 This folder is a Kinenix flow project. Kinenix runs automation flows written in Markdown (`flow.md`). Your job is to turn the requirements in `requirements.md` into a working `flow.md`.
 
